@@ -1,5 +1,6 @@
 let items=[
     {
+        id:1,
         item_image:'images/ethnic_wear/img1.png',
         rating:{
             stars:4.5,
@@ -12,6 +13,7 @@ let items=[
         discount:80,
     },
     {
+        id:2,
         item_image:'images/ethnic_wear/img2.png',
         rating:{
             stars:4.7,
@@ -24,6 +26,7 @@ let items=[
         discount:75,
     },
     {
+        id:3,
         item_image:'images/ethnic_wear/img3.png',
         rating:{
             stars:4.3,
@@ -36,6 +39,7 @@ let items=[
         discount:72,
     },
     {
+        id:4,
         item_image:'images/ethnic_wear/img4.png',
         rating:{
             stars:4.8,
@@ -48,6 +52,7 @@ let items=[
         discount:68,
     },
     {
+        id:5,
         item_image:'images/ethnic_wear/img5.png',
         rating:{
             stars:3.9,
@@ -60,6 +65,7 @@ let items=[
         discount:73,
     },
     {
+        id:6,
         item_image:'images/ethnic_wear/img6.png',
         rating:{
             stars:4.4,
@@ -72,6 +78,7 @@ let items=[
         discount:70,
     },
     {
+        id:7,
         item_image:'images/ethnic_wear/img7.png',
         rating:{
             stars:4.6,
@@ -84,6 +91,7 @@ let items=[
         discount:70,
     },
     {
+        id:8,
         item_image:'images/ethnic_wear/img8.png',
         rating:{
             stars:4.8,
@@ -96,6 +104,7 @@ let items=[
         discount:65,
     },
     {
+        id:9,
         item_image:'images/ethnic_wear/img9.png',
         rating:{
             stars:4.1,
@@ -108,6 +117,7 @@ let items=[
         discount:63,
     },
     {
+        id:10,
         item_image:'images/ethnic_wear/img10.png',
         rating:{
             stars:4.2,
@@ -120,6 +130,7 @@ let items=[
         discount:64,
     },
     {
+        id:11,
         item_image:'images/ethnic_wear/img11.png',
         rating:{
             stars:4.6,
@@ -132,6 +143,7 @@ let items=[
         discount:63,
     },
     {
+        id:12,
         item_image:'images/ethnic_wear/img12.png',
         rating:{
             stars:4.4,

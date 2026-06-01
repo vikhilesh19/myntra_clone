@@ -1,5 +1,6 @@
 let items=[
     {
+        id:13,
         item_image:'images/casual_wear/img1.png',
         rating:{
             stars:4.5,
@@ -12,6 +13,7 @@ let items=[
         discount:80,
     },
     {
+        id:14,
         item_image:'images/casual_wear/img2.png',
         rating:{
             stars:4.7,
@@ -24,6 +26,7 @@ let items=[
         discount:81,
     },
     {
+        id:15,
         item_image:'images/casual_wear/img3.png',
         rating:{
             stars:4.3,
@@ -36,6 +39,7 @@ let items=[
         discount:79,
     },
     {
+        id:16,
         item_image:'images/casual_wear/img4.png',
         rating:{
             stars:4.8,
@@ -48,6 +52,7 @@ let items=[
         discount:81,
     },
     {
+        id:17,
         item_image:'images/casual_wear/img5.png',
         rating:{
             stars:3.9,
@@ -60,6 +65,7 @@ let items=[
         discount:81,
     },
     {
+        id:18,
         item_image:'images/casual_wear/img6.png',
         rating:{
             stars:4.4,
@@ -72,6 +78,7 @@ let items=[
         discount:81,
     },
     {
+        id:19,
         item_image:'images/casual_wear/img7.png',
         rating:{
             stars:4.6,
@@ -84,6 +91,7 @@ let items=[
         discount:79,
     },
     {
+        id:20,
         item_image:'images/casual_wear/img8.png',
         rating:{
             stars:4.8,
@@ -96,6 +104,7 @@ let items=[
         discount:81,
     },
     {
+        id:21,
         item_image:'images/casual_wear/img9.png',
         rating:{
             stars:4.1,
@@ -108,6 +117,7 @@ let items=[
         discount:56,
     },
     {
+        id:22,
         item_image:'images/casual_wear/img10.png',
         rating:{
             stars:4.2,
@@ -120,6 +130,7 @@ let items=[
         discount:81,
     },
     {
+        id:23,
         item_image:'images/casual_wear/img11.png',
         rating:{
             stars:4.6,
@@ -132,6 +143,7 @@ let items=[
         discount:81,
     },
     {
+        id:24,
         item_image:'images/casual_wear/img12.png',
         rating:{
             stars:4.4,
