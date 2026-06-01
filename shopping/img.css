@@ -331,3 +331,38 @@ h4{
 .action_text{
     color: black;
 }
+.bag_item_container{
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+    border: #edf0f6 solid 2px;
+    width: 65%;
+}
+.bag_page{
+    margin: 20px 150px;
+}
+#image{
+    height:200px;
+}
+.item_right_part{
+    margin: 0 15px;
+}
+.delivery_details_days{
+    color: rgb(3, 182, 3);
+}
+.remove_from_bag{
+    font-size: large;
+    position: relative;
+    top: 0px;
+    left: 99%;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+.item_right_part{
+    display: flex;
+}
+.return_period_days{
+    font-size: 12px;
+    font-weight: 700;
+}

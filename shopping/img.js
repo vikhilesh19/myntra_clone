@@ -29,6 +29,9 @@ function displaybagicon(){
 
 function displayitems(){
     let itemscontainerElement=document.querySelector('.items_container');
+    if(!itemscontainerElement){
+        return;
+    }
     let innerHTML='';
     items.forEach(item=>{
             innerHTML+=`
