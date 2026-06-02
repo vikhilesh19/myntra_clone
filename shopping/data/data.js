@@ -11,6 +11,7 @@ let items=[
         current_price:788,
         original_price:3999,
         discount:80,
+        return_in:14,
     },
     {
         id:2,
@@ -24,6 +25,7 @@ let items=[
         current_price:952,
         original_price:3999,
         discount:75,
+        return_in:7,
     },
     {
         id:3,
@@ -37,6 +39,7 @@ let items=[
         current_price:1389,
         original_price:4999,
         discount:72,
+        return_in:0,
     },
     {
         id:4,
@@ -50,6 +53,7 @@ let items=[
         current_price:953,
         original_price:2999,
         discount:68,
+        return_in:14,
     },
     {
         id:5,
@@ -63,6 +67,7 @@ let items=[
         current_price:799,
         original_price:2999,
         discount:73,
+        return_in:10,
     },
     {
         id:6,
@@ -76,6 +81,7 @@ let items=[
         current_price:749,
         original_price:2499,
         discount:70,
+        return_in:8,
     },
     {
         id:7,
@@ -89,6 +95,7 @@ let items=[
         current_price:749,
         original_price:2499,
         discount:70,
+        return_in:14,
     },
     {
         id:8,
@@ -102,6 +109,7 @@ let items=[
         current_price:1749,
         original_price:4999,
         discount:65,
+        return_in:10,
     },
     {
         id:9,
@@ -115,6 +123,7 @@ let items=[
         current_price:1386,
         original_price:3775,
         discount:63,
+        return_in:15,
     },
     {
         id:10,
@@ -128,6 +137,7 @@ let items=[
         current_price:649,
         original_price:1799,
         discount:64,
+        return_in:9,
     },
     {
         id:11,
@@ -141,6 +151,7 @@ let items=[
         current_price:1496,
         original_price:3999,
         discount:63,
+        return_in:10,
     },
     {
         id:12,
@@ -154,6 +165,7 @@ let items=[
         current_price:1649,
         original_price:4999,
         discount:67,
+        return_in:7,
     },
     {
         id:13,
@@ -167,6 +179,7 @@ let items=[
         current_price:498,
         original_price:2499,
         discount:80,
+        return_in:5,
     },
     {
         id:14,
@@ -180,6 +193,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:8,
     },
     {
         id:15,
@@ -193,6 +207,7 @@ let items=[
         current_price:529,
         original_price:2499,
         discount:79,
+        return_in:6,
     },
     {
         id:16,
@@ -206,6 +221,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:14,
     },
     {
         id:17,
@@ -219,6 +235,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:0,
     },
     {
         id:18,
@@ -232,6 +249,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:0,
     },
     {
         id:19,
@@ -245,6 +263,7 @@ let items=[
         current_price:525,
         original_price:2499,
         discount:79,
+        return_in:14,
     },
     {
         id:20,
@@ -258,6 +277,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:12,
     },
     {
         id:21,
@@ -271,6 +291,7 @@ let items=[
         current_price:1102,
         original_price:2499,
         discount:56,
+        return_in:14,
     },
     {
         id:22,
@@ -284,6 +305,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:8,
     },
     {
         id:23,
@@ -297,6 +319,7 @@ let items=[
         current_price:465,
         original_price:2499,
         discount:81,
+        return_in:14,
     },
     {
         id:24,
@@ -310,5 +333,6 @@ let items=[
         current_price:498,
         original_price:2499,
         discount:80,
+        return_in:10,
     },
 ];

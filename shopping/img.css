@@ -336,7 +336,7 @@ h4{
     display: flex;
     padding: 10px;
     border: #edf0f6 solid 2px;
-    width: 65%;
+    width: 150%;
 }
 .bag_page{
     margin: 20px 150px;
@@ -354,7 +354,7 @@ h4{
     font-size: large;
     position: relative;
     top: 0px;
-    left: 99%;
+    left: 240px;
     background-color: white;
     border: none;
     cursor: pointer;
@@ -365,4 +365,52 @@ h4{
 .return_period_days{
     font-size: 12px;
     font-weight: 700;
+}
+.bag_page{
+    display: flex;
+}
+.bag_summary{
+    position: relative;
+    top: 10px;
+    left: 400px;
+    width: 400px;
+    height: 200px;
+    border: rgb(240, 239, 239) solid;
+    padding: 10px;
+}
+.price_item,.price_footer{
+    font-family: Arial, sans-serif;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    display: flex;
+    justify-content: space-between;
+}
+.place_order{
+    margin-top: 7px;
+    width: 100%;
+    height: 40px;
+}
+.place_order{
+    border: none;
+    color: white;
+    background-color: #f54e77;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.price_item_value_discount{
+    color: rgb(49, 172, 49);
+}
+.empty_bag{
+    width: 75%;
+    height: 400px;
+    position: relative;
+    top: 0px;
+    left: 33%;
+
+}
+.light{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 2px;
 }
